@@ -79,9 +79,9 @@ The analysis demonstrates a complete workflow using **Excel, SQL, Power Pivot, a
 #### **Gender**
 
 * **Highest attrition:** *Male employees (60%)*
-* Males form a large share of technical/high-pressure roles where turnover is naturally higher.
+   * Males form a large share of technical/high-pressure roles where turnover is naturally higher.
 * **Lowest attrition:** *Female employees (40%)*
-* Women show stronger retention across roles.
+   * Women show stronger retention across roles.
 
 **Interpretation:**
 Attrition is **gender-skewed**, with male employees leaving more frequently due to the nature of roles they occupy such as Laboratorty and Sales.
@@ -91,9 +91,9 @@ Attrition is **gender-skewed**, with male employees leaving more frequently due 
 #### **Marital Status**
 
 * **Highest attrition:** *Single employees*
-* Younger, more mobile, easily attracted to new opportunities.
+   * Younger, more mobile, easily attracted to new opportunities.
 * **Lowest attrition:** *Divorced employees*
-* Greater preference for job security and stability.
+   * Greater preference for job security and stability.
 
 **Interpretation:**
 Life stage plays a major role in mobility and retention.
@@ -103,27 +103,27 @@ Life stage plays a major role in mobility and retention.
 #### **Age Group**
 
 * **Highest attrition:** *Youth*
-* Early career employees experience role mismatch, onboarding gaps, and career uncertainty.
+   * Early career employees experience role mismatch, onboarding gaps, and career uncertainty.
 * **Lowest attrition:** *Senior Adults*
-* Older employees show strong stability and long-term organizational fit.
+   * Older employees show strong stability and long-term organizational fit.
 
 ---
 
 #### **Department**
 
 * **Highest attrition:** *Research & Development*
-* High workload, technical demands, and competitive external markets.
+   * High workload, technical demands, and competitive external markets.
 * **Lowest attrition:** *Human Resources*
-* Clearer job structure and lower operational volatility.
+   * Clearer job structure and lower operational volatility.
 
 ---
 
 #### **Job Role**
 
 * **Highest attrition:** *Laboratory Technicians & Sales Executives*
-* Fast-paced, target-driven roles with high stress levels.
+   * Fast-paced, target-driven roles with high stress levels.
 * **Lowest attrition:** *Managers & Research Directors*
-* Senior roles with career stability and strong organizational ties.
+   * Senior roles with career stability and strong organizational ties.
 
 ---
 
@@ -174,7 +174,7 @@ Employees who feel engaged and valued stay longer.
 #### **Tenure with Manager**
 
 * **Highest attrition:** *0–2 years*
-* Early experience with a manager shapes long-term retention.
+   * Early experience with a manager shapes long-term retention.
 * Attrition sharply declines after Year 3.
 
 ---
