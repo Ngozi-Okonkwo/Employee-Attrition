@@ -75,7 +75,7 @@ The analysis demonstrates a complete workflow using **Excel, SQL, Power Pivot, a
 
 ### **Demographics and Attrition**
 
-
+![demographics](demographics.png)
 
 #### **Gender**
 
@@ -130,6 +130,8 @@ Life stage plays a major role in mobility and retention.
 
 ### **Employee Satisfaction and Retention**
 
+![empsatisfaction](empsatisfaction.png)
+
 #### **Work Environment**
 
 * **Highest attrition:** *Very Dissatisfied employees*
@@ -162,6 +164,8 @@ Employees who feel engaged and valued stay longer.
 ---
 
 ### **Career Growth and Tenure**
+
+![careergrowth](careergrowth.png)
 
 #### **Job Level**
 
