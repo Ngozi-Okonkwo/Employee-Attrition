@@ -231,7 +231,7 @@ Employees who feel engaged and valued stay longer.
 The analysis shows that attrition is driven most strongly by **early-career instability**, **poor environmental satisfaction**, and **limited career progression opportunities**. By improving early-stage experience, strengthening manager support, and building clear growth pathways, organizations can significantly reduce turnover and improve workforce stability.
 
 ---
-
+## **See the tools I use and connect with me. Reach me [here](https://github.com/Ngozi-Okonkwo)** 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
