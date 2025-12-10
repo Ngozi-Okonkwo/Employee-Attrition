@@ -34,7 +34,7 @@ The analysis demonstrates a complete workflow using **Excel, SQL, Power Pivot, a
 
 ## **Data Sources**
 
-* Employee Attrition CSV Dataset from www.kaggle.com
+* The Employee Attrition CSV Dataset was downloaded from Kaggle.com. You can explore the dataset [here](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 ---
 
@@ -73,6 +73,7 @@ The analysis demonstrates a complete workflow using **Excel, SQL, Power Pivot, a
 |                         | Single   | 470 (31.97%)|
 |                         | Divorced | 327 (22.24%)|
 
+---
 ### **Demographics and Attrition**
 
 ![demographics](demographics.png)
