@@ -9,9 +9,9 @@ This report summarizes the key findings and recommendations derived from an anal
 * [Tools for Analysis](#tools-for-analysis)
 * [Data Cleaning, Preparation and Transformation](#data-cleaning-preparation-and-transformation)
 * [Results and Findings](#results-and-findings)
-   - [Demographics and Attrition](#1-demographics-and-attrition)
-   - [Employee Satisfaction and Retention](#2-employee-satisfaction-and-retention)
-   - [Career Growth and Tenure](#3-career-growth-and-tenure)
+   - [Demographics and Attrition](#demographics-and-attrition)
+   - [Employee Satisfaction and Retention](#employee-satisfaction-and-retention)
+   - [Career Growth and Tenure](#career-growth-and-tenure)
 * [Recommendations](#recommendations)
 * [Conclusion](#conclusion)
 
@@ -73,7 +73,7 @@ The analysis demonstrates a complete workflow using **Excel, SQL, Power Pivot, a
 |                         | Single   | 470 (31.97%)|
 |                         | Divorced | 327 (22.24%)|
 
-### **A. Demographics and Attrition**
+### **Demographics and Attrition**
 
 #### **Gender**
 
@@ -126,7 +126,7 @@ Life stage plays a major role in mobility and retention.
 
 ---
 
-### **B. Employee Satisfaction and Retention**
+### **Employee Satisfaction and Retention**
 
 #### **Work Environment**
 
@@ -159,7 +159,7 @@ Employees who feel engaged and valued stay longer.
 
 ---
 
-### **C. Career Growth & Tenure**
+### **Career Growth and Tenure**
 
 #### **Job Level**
 
