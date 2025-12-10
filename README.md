@@ -74,7 +74,7 @@ The analysis demonstrates a complete workflow using **Excel, SQL, Power Pivot, a
 |                         | Single   | 470 (31.97%)|
 |                         | Divorced | 327 (22.24%)|
 
-### **1. Workforce Demographics & Attrition**
+### **A. Demographics & Attrition**
 
 #### **Gender**
 
@@ -127,7 +127,7 @@ Life stage plays a major role in mobility and retention.
 
 ---
 
-### **2. Employee Satisfaction & Retention**
+### **B. Employee Satisfaction & Retention**
 
 #### **Work Environment**
 
@@ -160,7 +160,7 @@ Employees who feel engaged and valued stay longer.
 
 ---
 
-### **3. Career Growth & Tenure**
+### **C. Career Growth & Tenure**
 
 #### **Job Level**
 
@@ -190,29 +190,29 @@ Employees who feel engaged and valued stay longer.
 
 ## **Recommendations**
 
-### **1. Strengthen Early-Career Support**
+### **1. Strengthen early career support**
 
-* Improve onboarding and 90-day integration
+* Improve onboarding and 90-day integration into the organisation
 * Introduce mentorship programs
 * Provide role clarity early
 
-### **2. Improve Manager–Employee Experience**
+### **2. Improve Manager–Employee relationship**
 
 * Train managers on communication and engagement
 * Enhance team culture and support structures
 
-### **3. Improve Career Development Pathways**
+### **3. Improve career development pathways**
 
 * Transparent promotion guidelines
 * Upskilling and training programs
 * Internal mobility opportunities
 
-### **4. Reduce Workload Pressure**
+### **4. Reduce workload pressure**
 
 * Review overtime-heavy departments
 * Implement flexible/hybrid work options
 
-### **5. Retain High Performers**
+### **5. Retain high performers**
 
 * Offer performance-based incentives
 * Conduct stay interviews
