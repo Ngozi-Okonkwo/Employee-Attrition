@@ -1,4 +1,4 @@
-# Employee-Attrition
+# Employee Attrition
 This report summarizes the key findings and recommendations derived from an analysis of employee attrition data, providing insights into demographic patterns, satisfaction levels, and career progression factors influencing turnover.
 ## **Employee Attrition Analysis Report**
 
@@ -9,12 +9,11 @@ This report summarizes the key findings and recommendations derived from an anal
 * [Tools for Analysis](#tools-for-analysis)
 * [Data Cleaning, Preparation and Transformation](#data-cleaning-preparation-and-transformation)
 * [Results and Findings](#results-and-findings)
-   -  [Workforce Demographics & Attrition](#1-workforce-demographics--attrition)
-   - [Employee Satisfaction & Retention](#2-employee-satisfaction--retention)
-   - [Career Growth & Tenure](#3-career-growth--tenure)
+   - [Demographics and Attrition](#1-demographics-and-attrition)
+   - [Employee Satisfaction and Retention](#2-employee-satisfaction-and-retention)
+   - [Career Growth and Tenure](#3-career-growth-and-tenure)
 * [Recommendations](#recommendations)
 * [Conclusion](#conclusion)
-* [Technology Badges](#technology-badges)
 
 ---
 
@@ -74,7 +73,7 @@ The analysis demonstrates a complete workflow using **Excel, SQL, Power Pivot, a
 |                         | Single   | 470 (31.97%)|
 |                         | Divorced | 327 (22.24%)|
 
-### **A. Demographics & Attrition**
+### **A. Demographics and Attrition**
 
 #### **Gender**
 
@@ -127,7 +126,7 @@ Life stage plays a major role in mobility and retention.
 
 ---
 
-### **B. Employee Satisfaction & Retention**
+### **B. Employee Satisfaction and Retention**
 
 #### **Work Environment**
 
