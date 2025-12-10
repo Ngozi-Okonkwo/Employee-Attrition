@@ -25,8 +25,8 @@ The goal is to identify **who is leaving**, **why they are leaving**, and **what
 The dashboard includes:
 
 * **Demographics Overview**
-* **Employee Satisfaction & Retention**
-* **Career Growth & Tenure**
+* **Employee Satisfaction and Retention**
+* **Career Growth and Tenure**
 
 The analysis demonstrates a complete workflow using **Excel, SQL, Power Pivot, and Power BI** — from data cleaning to interactive dashboards and HR insights.
 
@@ -74,6 +74,8 @@ The analysis demonstrates a complete workflow using **Excel, SQL, Power Pivot, a
 |                         | Divorced | 327 (22.24%)|
 
 ### **Demographics and Attrition**
+
+
 
 #### **Gender**
 
